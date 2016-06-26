@@ -3,7 +3,8 @@ require 'colorize'
 class Animal
 
   LOCATIONS = {
-    :alley_cat => './cats/indoor/back-alley/alley-cat.gif',
+    :alley_cat => './cats/indoor
+    /back-alley/alley-cat.gif',
     :lion => './cats/outdoor/africa/lion.jpg',
     :african_wild_cat => './cats/outdoor/africa/african-wild-cat.jpg',
     :north_american_wild_cat => './cats/outdoor/north-america/north-american-wild-cat.jpg',
